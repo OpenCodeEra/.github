@@ -1,10 +1,10 @@
 ## Hi there 👋
+![cover (2)](https://github.com/OpenCodeEra/.github/assets/100958893/0f30ae45-1b89-4285-8ff2-6263cf68dbd7)
 
 
+# **Open Code Era**
 
-# **Design and Code**
-
-Welcome to Open Code Era where anyone interested in developing and desinnging can connect and interact with fellow peers from all over the globe and not only learn, but also collaborate on various projects!
+Welcome to Open Code Era where anyone interested in developing and designing can connect and interact with fellow peers from all over the globe and not only learn, but also collaborate on various projects!
 
 <a href="https://www.linkedin.com/company/open-code-era/" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
