@@ -34,7 +34,7 @@ Welcome to Open Code Era where anyone interested in developing and designing can
 >   
 > 2. Click on the people header or click [here](https://github.com/orgs/OpenCodeEra/people) : <br>
 >   
->![image](https://github.com/OpenCodeEra/.github/assets/100958893/9765e091-9369-4689-ae38-18d503a68af8) <br>
+> ![image](https://github.com/OpenCodeEra/.github/assets/100958893/9765e091-9369-4689-ae38-18d503a68af8) <br>
 >   
 > 3. Enter your github username in the searchbar: <br>
 >   
@@ -42,7 +42,7 @@ Welcome to Open Code Era where anyone interested in developing and designing can
 >   
 > 4. Check if it is `Private` (the default) and set it to `Public`: <br>
 >   
-> <img width="639" alt="makepublic" src="https://user-images.githubusercontent.com/65373279/133414458-d76d47b4-1c96-439c-aff9-41a16a93ef9b.png"> <br>
+> ![image](https://github.com/OpenCodeEra/.github/assets/100958893/2ccaeaeb-813d-4f1e-b281-c0a83173ca9a) <br>
   
 ## Socials
 
