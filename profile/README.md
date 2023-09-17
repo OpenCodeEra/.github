@@ -38,7 +38,7 @@ Welcome to Open Code Era where anyone interested in developing and designing can
 >   
 > 3. Enter your github username in the searchbar: <br>
 >   
-> <img width="233" alt="searchbar" src="https://user-images.githubusercontent.com/65373279/133414391-f26a56a3-2b0a-47ba-a598-37fb30ead5eb.PNG"> <br>
+> ![image](https://github.com/OpenCodeEra/.github/assets/100958893/db075f89-4e73-4b3b-a981-d42a3dd571d8) <br>
 >   
 > 4. Check if it is `Private` (the default) and set it to `Public`: <br>
 >   
