@@ -1,8 +1,8 @@
 ---
 name: Please invite me to the GitHub Community Organization
 about: Adding members to organisation.
-title: Invitation
-labels: ''
+title: Please invite me to the GitHub Community Organization
+labels: Invitation
 assignees: ''
 
 ---
