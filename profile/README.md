@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋  <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 ![cover (2)](https://github.com/OpenCodeEra/.github/assets/100958893/0f30ae45-1b89-4285-8ff2-6263cf68dbd7)
 
 
